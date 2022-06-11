@@ -1,8 +1,8 @@
-// code your solution here
+// // code your solution here
 
-superbowlWin = (record) => {
+// superbowlWin = (record) => {
   
-  const winner = record.find((record) => record.result === 'W')
-  return !!winner ? winner.year : undefined;
+//   const winner = record.find((record) => record.result === 'W')
+//   return !!winner ? winner.year : undefined;
   
-};
+// };
